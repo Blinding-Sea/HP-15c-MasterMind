@@ -4,3 +4,5 @@ Time to document my first big 15C application. The original dates back to Spring
 
 I need to learn more about GitHub and Atom first.
 Still putting the pieces together...
+
+work starts again on July 14, 2019
